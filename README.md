@@ -8,12 +8,10 @@ I come to technology from the field, not the classroom. My background spans avia
 
 ### 🏗️ What I'm building
 
-**Infrastructure Sentinel Systems (ISS)** is a Malaysian InfraTech startup building an agentic Document-AI and 3D Digital Twin platform for predictive structural monitoring of highway infrastructure.
+**Infrastructure Sentinel Systems (ISS)** is a Malaysian InfraTech startup building a document AI tool that helps engineers check highway inspection records, with every value traced to its source. It is an early prototype, tested on synthetic records.
 
 - 📄 **Document-AI:** turns inspection and maintenance records into structured, verified data
 - 🔍 **Verification and traceability:** every extracted record can be reviewed, confirmed or corrected by an engineer
-- 🧊 **3D Digital Twin:** links asset data to a model of the structure for predictive monitoring
-- ☁️ Cloud-native architecture designed with data sovereignty in mind
 
 **GroundTruth** is a hackathon project that applies document-AI to rank township infrastructure assets (drainage, retaining walls, roads, slopes) by failure risk using historical maintenance records.
 
@@ -43,8 +41,3 @@ Infrastructure maintenance and inspection · Document-AI for engineering records
 
 Bahasa Malaysia · English
 
-### 📫 Reach me
-
-<!-- Add your links here, for example: -->
-<!-- - LinkedIn: https://www.linkedin.com/in/your-profile -->
-<!-- - Email: your@email.com -->
